@@ -1,0 +1,4 @@
+SunPoints:1000
+Brains:50
+SunPoints:25
+Brains:50

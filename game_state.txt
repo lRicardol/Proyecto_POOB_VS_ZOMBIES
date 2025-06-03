@@ -1,0 +1,12 @@
+SunPoints:110411
+Brains:50
+Plant:Peashooter,0,1
+Plant:Peashooter,1,1
+Plant:WallNut,2,2
+Plant:ECIPlant,3,1
+Plant:PotatoMine,3,3
+Plant:PotatoMine,4,1
+Zombie:BasicZombie,0,9
+Zombie:BasicZombie,1,9
+Zombie:ECIZombie,3,9
+Zombie:BasicZombie,4,9

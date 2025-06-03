@@ -1,0 +1,9 @@
+SunPoints:1150
+Brains:50
+Plant:Peashooter,0,2
+Plant:WallNut,1,5
+Plant:Peashooter,2,2
+Plant:PotatoMine,2,6
+Plant:TallNut,3,4
+Plant:Peashooter,4,2
+Zombie:BucketheadZombie,3,9
